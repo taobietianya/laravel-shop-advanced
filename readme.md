@@ -1,7 +1,5 @@
 ## Laravel Shop
 
-> Laravel Shop 是课程 [《L05 Laravel 教程 - 电商实战》](https://laravel-china.org/topics/13206/laravel-shop-course) 的源代码。
-
 ## 功能
 
 Laravel Shop 功能如下：

@@ -65,7 +65,7 @@ Laravel Shop 功能如下：
 ## 截图
 
 
-![0](https://user-images.githubusercontent.com/324764/41385028-c1329666-6fab-11e8-8052-eb8d863cb766.png)
+
 
 
 ![1](https://user-images.githubusercontent.com/324764/41385029-c1a58dba-6fab-11e8-9c15-5cdf85f848b6.gif)
